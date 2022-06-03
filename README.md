@@ -20,16 +20,16 @@
 
 ##### `The binary image`
 
-![alt text](https://github.com/melissagosme/Distace-Trasform/blob/master/examples/input1.jpg?raw=true)
+![alt text](https://github.com/melissagosme/Distace-Trasform/blob/master/images/input1.jpg?raw=true)
 
 ##### `becomes`
 
-![alt text](https://github.com/melissagosme/Distace-Trasform/blob/master/examples/output1.jpg?raw=true)
+![alt text](https://github.com/melissagosme/Distace-Trasform/blob/master/images/output1.jpg?raw=true)
 
 ##### `Similarly,`
 
-![alt text](https://github.com/melissagosme/Distace-Trasform/blob/master/examples/input2.jpg?raw=true)
+![alt text](https://github.com/melissagosme/Distace-Trasform/blob/master/images/input2.jpg?raw=true)
 
 ##### `becomes`
 
-![alt text](https://github.com/melissagosme/Distace-Trasform/blob/master/examples/output2.jpg?raw=true)
+![alt text](https://github.com/melissagosme/Distace-Trasform/blob/master/images/output2.jpg?raw=true)
