@@ -15,21 +15,12 @@
 >Note : There can be multiple regions within a single image. The program works for each region.
 
 
-### Example Images
+### Example Inputs and Outputs
 
 
-##### `The binary image`
+<img src="https://github.com/melissagosmen/Distance-Transform/blob/main/images/input1.png" width="340" height="340"> <img src="https://github.com/melissagosmen/Distance-Transform/blob/main/images/output1.png" width="383" height="340">
 
-![alt text](https://github.com/melissagosme/Distace-Trasform/blob/master/images/input1.jpg?raw=true)
 
-##### `becomes`
 
-![alt text](https://github.com/melissagosme/Distace-Trasform/blob/master/images/output1.jpg?raw=true)
+<img src="https://github.com/melissagosmen/Distance-Transform/blob/main/images/input2.png" width="315" height="315"> <img src="https://github.com/melissagosmen/Distance-Transform/blob/main/images/output2.png" width="358" height="315">
 
-##### `Similarly,`
-
-![alt text](https://github.com/melissagosme/Distace-Trasform/blob/master/images/input2.jpg?raw=true)
-
-##### `becomes`
-
-![alt text](https://github.com/melissagosme/Distace-Trasform/blob/master/images/output2.jpg?raw=true)
